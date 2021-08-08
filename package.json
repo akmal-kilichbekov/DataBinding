@@ -1,0 +1,19 @@
+{
+  "name": "databinding",
+  "version": "1.0.0",
+  "description": "Data Binding tutorials of SAPUI5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akmal-kilichbekov/DataBinding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akmal-kilichbekov/DataBinding/issues"
+  },
+  "homepage": "https://github.com/akmal-kilichbekov/DataBinding#readme"
+}
